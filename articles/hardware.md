@@ -7,4 +7,6 @@ This is a hardware list for testing and converting current access system to a sy
 - Cabels ( We have these )
 - Cabel Strippers ( We might have these )
 - Adafruit Prototyping Pi Plate Kit for Raspberry Pi 
+- 12v Relay
+- Battery that can output 12v
 
